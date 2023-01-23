@@ -2,7 +2,7 @@ title:              SW
 email:              tmddn645@naver.com
 description:        기록용 블로그
 author:             Seung Woo
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            
 url:                "https://seung-woo-ryu.github.io"
 
 # Social Profiles
